@@ -20,7 +20,7 @@
 - A developer student at ```EPITECH```
 - I want to become a blockchain developer !
 - Currently learning Blockchain and Web3 Development by Self
-- Personal website incoming...
+- Personal article on Blackchain incoming...
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
