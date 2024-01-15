@@ -18,10 +18,10 @@
 <br>
 
 - A developer student at ```EPITECH```
-- Interest in blochain
-- Currently learning Cyber security and advanced fullstack web
-- Personal article on Blockchain incoming..
-- Protfolio website incoming..
+- Interest in blockchain
+- Currently learning Cyber security and advanced backend web (Laravel, Nodejs, ..)
+- Personal article on Medium incoming..
+- Protfolio website incoming.. (never :) ) 
 - Open as freelance :)
 
 <br><br>
